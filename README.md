@@ -1,4 +1,4 @@
-# 🤖 Zheaww.AI - Personal Portfolio Chatbot
+# 🤖 Zheaww.AI - ChatBot Sederhana Tentang Saya
 
 Zheaww.AI adalah chatbot interaktif berbasis web yang berfungsi sebagai **Asisten Virtual Pribadi** untuk memperkenalkan diri saya (Agyl Wendi Pratama). Dibangun dengan desain modern **Glassmorphism** dan logika cerdas untuk menangani percakapan natural.
 
